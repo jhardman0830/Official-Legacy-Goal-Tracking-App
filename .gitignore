@@ -4,3 +4,17 @@
 Homestead.yaml
 Homestead.json
 .env
+
+*.xml
+
+*.xml
+
+*.ids
+
+*.xml
+
+.idea/workspace.xml
+
+.idea/workspace.xml
+
+.idea/workspace.xml
